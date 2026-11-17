@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adha 👋
 
-<!--
-**Adhasatria/Adhasatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a university student passionate about programming and software development. I’m currently learning and improving my skills in C++ and Java.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Java
+- Algorithms and data structures
+- Software development fundamentals
+
+## 🌱 Currently
+
+- Strengthening my programming skills in C++ and Java
+- Building small projects to practice and learn
+- Open to collaboration and knowledge sharing
+
+## 📫 Contact
+
+You can reach me through my GitHub profile: [Adhasatria](https://github.com/Adhasatria)
+
+---
+
+“Learning step by step, growing every day.”
